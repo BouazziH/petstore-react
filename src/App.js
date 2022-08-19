@@ -23,8 +23,7 @@ function App() {
         <Route path="connexion" element={<Connexion />} />
         <Route path="Lists-contacts" element={<Listc />} />
       </Routes>
-      <Content />
-      <Slider />
+      
       <Hautfooter />
       <Footer />
     </div>

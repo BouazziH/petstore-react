@@ -1,5 +1,11 @@
+import Content from "../Content";
+import Slider from "../Slider";
+
 export default function Home() {
     return(
-        <h1>Home</h1>
+        <>
+        <Content />
+        <Slider />
+        </>
     )
 };

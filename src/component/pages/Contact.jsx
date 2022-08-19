@@ -27,7 +27,9 @@ export default function Contact() {
   if (submitted) {
     return (
       <>
+      
         <p>Merci de votre message.</p>
+
       </>
     );
   }
